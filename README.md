@@ -12,12 +12,12 @@
 ### Tecnologias que estudo 
 
 <div style="display: inline_block"><br>
-    <img aling="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> 
-    <img aling="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=whitelogoColor=white"/> 
-    <img aling="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> 
+    <img aling="center" alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> 
+    <img aling="center" alt="Mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/> 
+    <img aling="center" alt="BI" src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/> 
 
 <div><br>
-Apaixonado por tecnologia. Estudante de programação, em busca do meu primeiro emprego na área para poder desenvolver habilidades e aperfeiçoar meu conhecimento.
+Apaixonado por tecnologia. Estudante de programação com foco em emgenheiro de dados , em busca do meu primeiro emprego na área para poder desenvolver habilidades e aperfeiçoar meu conhecimento.
 Atualmente sou autônomo como motorista de aplicativo e nas horas vagas estudo programação.
 
 
