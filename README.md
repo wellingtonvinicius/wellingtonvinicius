@@ -20,10 +20,5 @@
     <img aling="center" alt="BI" src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/> 
 
 <div><br>
-Apaixonado por tecnologia. Estudante de programação com foco em emgenheiro de dados , em busca do meu primeiro emprego na área para poder desenvolver habilidades e aperfeiçoar meu conhecimento.
-Atualmente sou autônomo como motorista de aplicativo e nas horas vagas estudo programação.
-
-
-
-“Pessoas limitadas perguntam se vão conseguir, pessoas vencedoras perguntam o que vão fazer para conseguir”.
+Com uma paixão pela tecnologia, sou um estudante de programação focado em me tornar um engenheiro de dados. Estou em busca do meu primeiro emprego nessa área para desenvolver habilidades e aprimorar meu conhecimento. Atualmente, trabalho como motorista de aplicativo de forma autônoma e dedico meu tempo livre aos estudos de programação.
 
