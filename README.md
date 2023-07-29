@@ -6,9 +6,12 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ei_piit/)
 
 
-![Wellington GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=wellingtonvinicius&theme=blue-green)
 
-### Tecnologias que estudo 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wellingtonvinicius&layout=donut&theme=dark#gh-dark-mode-only)
+
+
+### Tecnologias que estudo 💻
 
 <div style="display: inline_block"><br>
     <img aling="center" alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/> 
@@ -19,5 +22,4 @@
     <img aling="center" alt="BI" src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/> 
 
 <div><br>
-Com uma paixão pela tecnologia, sou um estudante de programação focado em me tornar um engenheiro de dados. Estou em busca do meu primeiro emprego nessa área para desenvolver habilidades e aprimorar meu conhecimento. Atualmente, trabalho como motorista de aplicativo de forma autônoma e dedico meu tempo livre aos estudos de programação.
-
+Com uma paixão pela tecnologia, sou um estudante de ciências da computação focado em me tornar um engenheiro de dados. Estou em busca do meu primeiro emprego nessa área para desenvolver habilidades e aprimorar meu conhecimento. Atualmente, trabalho como motorista de aplicativo de forma autônoma e dedico meu tempo livre aos estudos.
