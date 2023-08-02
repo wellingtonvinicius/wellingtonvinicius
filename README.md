@@ -14,8 +14,7 @@ Outras redes sociais que pode me encontar.
 <br>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wellingtonvinicius&layout=donut&theme=dark#gh-dark-mode-only)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wellingtonvinicius&layout=donut-vertical&theme=dark#gh-dark-mode-only))](https://github.com/wellingtonvinicius/github-readme-stats)
 
  
 ### Tecnologias que estudo 💻
