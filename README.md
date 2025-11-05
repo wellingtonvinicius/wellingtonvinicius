@@ -53,6 +53,3 @@ Acredito que **disciplina e constância** são os maiores impulsionadores do cre
 
 ---
 
-<p align="center">
-  💬 <i>“A mente que acredita é o corpo que conquista.”</i>
-</p>
