@@ -1,10 +1,10 @@
 
 
-### Olá! Eu sou Wellington Vinicius 👋 
+Olá! Eu sou Wellington Vinicius 👋 
 
 <br>
 
-<div>
+<div align="center">
 Outras redes sociais onde você pode me encontrar:
 <br><br>
 
@@ -12,17 +12,17 @@ Outras redes sociais onde você pode me encontrar:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ei_piit/)
 
 <br>
-### 📊 Estatísticas
+📊 Estatísticas
 
-<div align="center">
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wellingtonvinicius&layout=donut-vertical&theme=dark#gh-dark-mode-only)](https://github.com/wellingtonvinicius/github-readme-stats)
 
-</div>
+
 
 ---
 
-### 🧠 Sobre mim  
+#🧠 Sobre mim  
 
 Sou apaixonado por tecnologia e atualmente curso Banco de Dados, com foco em **Análise e Engenharia de Dados**.  
 Busco minha primeira oportunidade na área de dados, como Analista de Dados júnior ou estagiário, para aplicar meus conhecimentos e evoluir profissionalmente em direção à Engenharia de Dados.  
@@ -30,9 +30,10 @@ Busco minha primeira oportunidade na área de dados, como Analista de Dados jún
 Atualmente, trabalho como motorista de aplicativo, conciliando minha rotina com os estudos de **Python, SQL, Power BI e ferramentas de análise de dados**.  
 Acredito que disciplina e constância são os maiores impulsionadores do crescimento pessoal e profissional.  
 
+</div>
 ---
 
-### 💻 Tecnologias que estudo  
+💻 Tecnologias que estudo  
 
 <div style="display: inline_block"><br>
     <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/> 
