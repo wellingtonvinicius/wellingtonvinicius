@@ -50,10 +50,4 @@ Acredito que **disciplina e constância** são os maiores impulsionadores do cre
 
 ---
 
-📊 Estatísticas  
-
-<p align="center"> <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=wellington-vinicius&theme=dark&count_private=true&show_icons=true" /> <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=wellington-vinicius&layout=compact&theme=dark&count_private=true" /> </p>
-
-
----
 
