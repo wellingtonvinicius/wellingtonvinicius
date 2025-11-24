@@ -31,22 +31,23 @@ Acredito que **disciplina e constância** são os maiores impulsionadores do cre
 
 ---
 
-## 💻 Tecnologias que estudo  
+## 🚀 Tecnologias que estudo
 
-🧩 Linguagens  
-<p>
-  <img alt="Python" src="https://camo.githubusercontent.com/6d084486ac2ba5fdd2c7cf4b2d382228acc56ae8854ea20d753d162e32631bbb/68747470733a2f2f696d672e69636f6e73382e636f6d2f3f73697a653d3130302669643d313334343126666f726d61743d706e6726636f6c6f723d303030303030"/>
-  <img alt ="SQL" src="https://camo.githubusercontent.com/2c8bc1f8fa78b9a786af61a8c703baeabaf62b650031fb047552eeb3c3d8a20b/68747470733a2f2f696d672e69636f6e73382e636f6d2f3f73697a653d3130302669643d313334303626666f726d61743d706e6726636f6c6f723d303030303030"/>
-</p>
+<p align="center">
+  <!-- Python -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60"/>
 
+  <!-- Pandas -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="60" height="60"/>
 
-📊 Tecnologias de Dados  
-<p>
-  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img alt="Power BI" src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
+  <!-- NumPy -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="60" height="60"/>
+
+  <!-- SQL (MySQL) -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" height="60"/>
+
+  <!-- Power BI -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" width="60" height="60"/>
 
 ---
 
