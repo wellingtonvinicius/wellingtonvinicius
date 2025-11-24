@@ -10,7 +10,7 @@
 
 🌎 Onde me encontrar  
 
-<p align="center">
+<p>
 <a href="https://www.linkedin.com/in/wellington-vinicius-silva-pestana-6b892913b/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
@@ -34,14 +34,14 @@ Acredito que **disciplina e constância** são os maiores impulsionadores do cre
 💻 Tecnologias que estudo  
 
 ## 🧩 Linguagens  
-<p align="center">
+<p>
   <img alt="Python" src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
   <img alt="SQL" src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
 
 ## 📊 Tecnologias de Dados  
-<p align="center">
+<p>
   <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img alt="Power BI" src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
