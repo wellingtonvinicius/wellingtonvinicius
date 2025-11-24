@@ -33,22 +33,27 @@ Acredito que **disciplina e constância** são os maiores impulsionadores do cre
 
 💻 Tecnologias que estudo  
 
+## 🧩 Linguagens  
 <p align="center">
   <img alt="Python" src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
+
+
+## 📊 Tecnologias de Dados  
+<p align="center">
+  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img alt="Power BI" src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <br>
-  <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img alt="CSS" src="https://img.shields.io/badge/CSS-239120?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
 ---
 
 📊 Estatísticas  
 
-<p align="center">
-  <img src="https://github-readme-stats-git-master-orgs-github-readme-stats-team.vercel.app/api/top-langs/?username=wellington-vinicius&layout=donut-vertical&theme=dark&count_private=true" />
-</p>
+<p align="center"> <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=wellington-vinicius&theme=dark&count_private=true&show_icons=true" /> <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=wellington-vinicius&layout=compact&theme=dark&count_private=true" /> </p>
+
+
 ---
 
