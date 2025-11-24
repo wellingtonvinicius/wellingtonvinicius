@@ -31,16 +31,16 @@ Acredito que **disciplina e constância** são os maiores impulsionadores do cre
 
 ---
 
-💻 Tecnologias que estudo  
+## 💻 Tecnologias que estudo  
 
-## 🧩 Linguagens  
+🧩 Linguagens  
 <p>
-  <img alt="Python" src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img alt="Python" src="[https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54](https://camo.githubusercontent.com/6d084486ac2ba5fdd2c7cf4b2d382228acc56ae8854ea20d753d162e32631bbb/68747470733a2f2f696d672e69636f6e73382e636f6d2f3f73697a653d3130302669643d313334343126666f726d61743d706e6726636f6c6f723d303030303030)"/>
   <img alt="SQL" src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
 
-## 📊 Tecnologias de Dados  
+📊 Tecnologias de Dados  
 <p>
   <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
