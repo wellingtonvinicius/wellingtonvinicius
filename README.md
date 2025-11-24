@@ -36,7 +36,7 @@ Acredito que **disciplina e constância** são os maiores impulsionadores do cre
 🧩 Linguagens  
 <p>
   <img alt="Python" src="https://camo.githubusercontent.com/6d084486ac2ba5fdd2c7cf4b2d382228acc56ae8854ea20d753d162e32631bbb/68747470733a2f2f696d672e69636f6e73382e636f6d2f3f73697a653d3130302669643d313334343126666f726d61743d706e6726636f6c6f723d303030303030"/>
-  <img alt ="SQL" width="60" height="60" src="https://img.icons8.com/external-outline-juicy-fish/60/external-sql-coding-and-development-outline-outline-juicy-fish.png" alt="external-sql-coding-and-development-outline-outline-juicy-fish"/>
+  <img alt ="SQL" src="https://camo.githubusercontent.com/2c8bc1f8fa78b9a786af61a8c703baeabaf62b650031fb047552eeb3c3d8a20b/68747470733a2f2f696d672e69636f6e73382e636f6d2f3f73697a653d3130302669643d313334303626666f726d61743d706e6726636f6c6f723d303030303030"/>
 </p>
 
 
