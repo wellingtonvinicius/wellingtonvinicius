@@ -25,7 +25,7 @@
 ## 🧠 Sobre mim  
 
 Sou apaixonado por tecnologia e atualmente curso Banco de Dados, com foco em Análise e Engenharia de Dados.  
-Busco minha primeira oportunidade na área, como Analista de Dados júnior ou estagiário, para aplicar o que venho aprendendo e crescer na direção da **Engenharia de Dados**.  
+Busco minha primeira oportunidade na área, como Analista de Dados júnior ou estagiário, para aplicar o que venho aprendendo e crescer na direção da Engenharia de Dados.  
 
 Atualmente, trabalho como motorista de aplicativo, conciliando essa rotina com meus estudos de **Python, SQL, Power BI e ferramentas de análise de dados**.  
 Acredito que disciplina e constância são os maiores impulsionadores do crescimento pessoal e profissional.  
